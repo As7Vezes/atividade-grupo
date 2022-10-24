@@ -1,0 +1,12 @@
+Decomposição:
+
+1.Falta de agendamento
+2.Fila desorganizada
+3.Atendimento prioritário por grau de urgência
+4.Falta de atendimento por faixa etária
+
+Reconhecimento de padrões:
+
+No passado criamos uma Fila
+
+Atualmente vamos organizar as filas por agendamento, grau de urgência e faixa etária.
